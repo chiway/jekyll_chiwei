@@ -2,7 +2,6 @@
 layout: default
 title: thanks for github and jekyll
 ---
-<h2>{{page.title}}</h2>
 <p>  althrough i can`t do anything good for github right now ,one day i would be a good hacker</p>
 <p>  many thanks .</p>
 
